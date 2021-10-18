@@ -1,0 +1,42 @@
+City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
+29,Magadan,RU,11.1,clear sky,59.5667,150.8,Magadan hotel
+33,Upernavik,GL,26.96,overcast clouds,72.7868,-56.1549,Gina's Guesthouse - Upernavik
+64,Qaanaaq,GL,26.15,overcast clouds,77.484,-69.3632,Qaanaaq Hotel
+70,Barrow,US,10.42,few clouds,71.2906,-156.7887,King Eider Inn
+86,Pevek,RU,9.18,overcast clouds,69.7008,170.3133,Severnoye Zoloto
+116,Zakamensk,RU,26.46,clear sky,50.3741,103.2863,Gostinitsa Zakamna
+125,Tuktoyaktuk,CA,19.4,broken clouds,69.4541,-133.0374,End of The Road Ltd.
+142,Tiksi,RU,16.77,overcast clouds,71.6872,128.8694,Arktika
+145,Smolenka,RU,17.67,few clouds,52.1352,113.4974,Russkaya Usadba v Zarechye
+147,Nome,US,18.16,overcast clouds,64.5011,-165.4064,Dredge 7 Inn
+155,Karasjok,NO,28.51,overcast clouds,69.4719,25.5112,Karasjok camping AS
+179,Bratsk,RU,28.89,broken clouds,56.1325,101.6142,"Gostinitsa ""Shvedka"""
+183,Chumikan,RU,19.44,clear sky,54.7183,135.315,Fortuna
+207,Norman Wells,CA,24.84,mist,65.282,-126.8329,Heritage Hotel
+215,Ilulissat,GL,17.35,clear sky,69.2167,-51.1,Hotel Arctic
+222,Chunskiy,RU,29.64,clear sky,56.0815,99.6342,Odisseya
+230,Tupik,RU,19.72,overcast clouds,54.4253,119.9327,Guest House Orkhideya
+234,Vyazemskiy,RU,23.76,clear sky,47.5378,134.7525,Dom Otdykha Dlya Rabotnikov Rzhd
+237,Heihe,CN,25.84,clear sky,50.2441,127.4902,Hotel Strannik
+239,Aklavik,CA,21.92,overcast clouds,68.2191,-135.0107,Aklavik Inn
+269,Tigil,RU,25.43,overcast clouds,57.8,158.6667,Tigil'
+277,Qasigiannguit,GL,28.65,clear sky,68.8193,-51.1922,Hotel Diskobay
+284,Nenjiang,CN,25.72,clear sky,49.1833,125.2167,Nenjiang Apartment
+289,Bikin,RU,23.74,clear sky,46.8161,134.26,Azhur
+299,Zhigansk,RU,17.67,light snow,66.7697,123.3711,Gostinichnyy Kompleks Aylgy
+300,Longyearbyen,SJ,17.44,broken clouds,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
+305,Verkhnevilyuysk,RU,28.44,overcast clouds,63.4453,120.3167,Gostinitsa Mila
+316,Nerchinskiy Zavod,RU,12.51,few clouds,51.3088,119.61,Tat'yana
+322,Neryungri,RU,19.83,light snow,56.6709,124.6491,Pyat' Zvozd
+324,Leningradskiy,RU,4.37,overcast clouds,69.3833,178.4167,Gostinitsa
+337,Poronaysk,RU,27.95,overcast clouds,49.2167,143.1167,Avtovokzal Khostel Stolovaya
+411,Ayan,RU,24.15,clear sky,56.45,138.1667,Gostinitsa
+467,Amga,RU,14.47,overcast clouds,60.8953,131.9608,Algys
+481,Bilibino,RU,3.06,overcast clouds,68.0546,166.4372,Gostinitsa Severyanka
+534,Zhigalovo,RU,27.36,clear sky,54.8097,105.1578,"Hotel ""Lenatur"""
+557,Yerofey Pavlovich,RU,22.05,broken clouds,53.9667,121.9667,lounges and warm parking
+564,Belyy Yar,RU,22.89,mist,53.6039,91.3903,Pasportnyy Stol
+581,Mandalgovi,MN,28.76,clear sky,45.7625,106.2708,В.Ганбат
+600,Zabaykalsk,RU,24.51,clear sky,49.6333,117.3167,Zheleznyy Mir
+637,Sisimiut,GL,27.75,clear sky,66.9395,-53.6735,Hotel Sisimiut
+659,Ulaanbaatar,MN,27.68,clear sky,47.9077,106.8832,The Blue Sky Hotel and Tower
